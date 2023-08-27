@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: a171782bbf6f24569ae1c6ef980af24c
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Commissioner
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 31927c289f0d4467eb224c97bc1ed79e, type: 3}
+  - {fileID: 12800000, guid: 401ba89232f5b49268a4798cb01b7307, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: AC_BossHandRight
+  m_Controller: {fileID: 9100000, guid: 6efe7ef940b871b44b18fe0aa205fa95, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 65dc75286439f0e48a6715af103398e6, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 6dee0babcc628e84db6fd4420ad97c05, type: 2}
